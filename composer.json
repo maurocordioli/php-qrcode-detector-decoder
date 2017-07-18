@@ -1,5 +1,5 @@
 {
-    "name": "maurocordioli/qrcode-detector-decoder",
+    "name": "maurocordioli/php-qrcode-detector-decoder",
     "type": "library",
     "description": "QR code decoder / reader",
     "keywords": ["qr", "zxing", "barcode"],
